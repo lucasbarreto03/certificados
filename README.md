@@ -4,7 +4,8 @@ Repositório dedicado a armazenar e compartilhar meus certificados de cursos, tr
 
 ## Cursos Concluídos
 
-- [Introdução ao Git e GitHub - FGV]([./fgv-introducao-git-github.pdf](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-ao-git-e-github))
+[Certificado FGV - Git/GitHub](./Certificado%20FGV%20-%20Git%20GitHub.pdf)
+
 
 ---
 ✨ Atualizado constantemente conforme avanço nos estudos.
